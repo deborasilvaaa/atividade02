@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family= Roboto :ital@1 & display=swap');
+
+.titulo{
+    font-family: 'Roboto', sem serifa;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 400;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    text-transform: initial;
+}
+
+.texto{
+    font-family: 'Roboto', sem serifa;
+    font-size: medium;
+    font-style: initial;
+    font-weight: 600;
+   color: black;
+    text-align: justify;
+   text-decoration: solid;
+    text-transform: uppercase;
+}    
+
+.titulo2{
+    font-family: 'Roboto', sem serifa;
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 400;
+    color: rgb(74, 12, 133);
+    text-align: center;
+    text-decoration: none;
+    text-transform: initial;
+}
+
+.texto2{
+    font-family: 'Roboto', sem serifa;
+    font-size: medium;
+    font-style: initial;
+    font-weight: 600;
+   color: black;
+    text-align: justify;
+   text-decoration: solid;
+    text-transform: uppercase;
+}
